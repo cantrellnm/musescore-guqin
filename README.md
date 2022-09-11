@@ -32,6 +32,48 @@ Tada! It's still just a guitar with guqin tuning but now you'll see hui numbers 
 1. Because this relies on a font that's installed on your system, another computer without the font installed will just see regular fret numbers when viewing a `.mscz`/`.xml` file of your music. (But a pdf/printing should work!)
 2. There's a decent number of hui positions in this font (36 positions from hui 1 to 13+) but the numbers must match up with frets (in semi-tone intervals like a guitar) so it is more limited than the actual instrument (which has no frets).
 3. I did my best to match hui numbers with fret numbers, but there was rounding involved for all except the octaves and a guitar is an equal temperamant instrument (a guqin is not!) so it's not going to be exact. Use your ear and be prepared to adjust a little.
+4. You can't type a hui number on the tabs, since the actual text is still a fret number.
+
+## Fret to Hui Reference
+
+| fret | hui  |
+|------|------|
+| 1    | 13.6 |
+| 2    | 13.1 |
+| 3    | 12.2 |
+| 4    | 10.9 |
+| 5    | 10   |
+| 6    | 9.5  |
+| 7    | 9    |
+| 8    | 8.5  |
+| 9    | 8    |
+| 10   | 7.6  |
+| 11   | 7.3  |
+| 12   | 7    |
+| 13   | 6.7  |
+| 14   | 6.5  |
+| 15   | 6.2  |
+| 16   | 6    |
+| 17   | 5.6  |
+| 18   | 5.3  |
+| 19   | 5    |
+| 20   | 4.8  |
+| 21   | 4.6  |
+| 22   | 4.4  |
+| 23   | 4.1  |
+| 24   | 4    |
+| 25   | 3.7  |
+| 26   | 3.5  |
+| 27   | 3.2  |
+| 28   | 3    |
+| 29   | 2.6  |
+| 30   | 2.3  |
+| 31   | 2    |
+| 32   | 1.8  |
+| 33   | 1.6  |
+| 34   | 1.4  |
+| 35   | 1.2  |
+| 36   | 1    |
 
 ---
 
