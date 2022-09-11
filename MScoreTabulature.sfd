@@ -1,0 +1,1605 @@
+SplineFontDB: 3.2
+FontName: MScoreTabulature
+FullName: MScoreTabulature
+FamilyName: MScoreTabulature
+Weight: Regular
+Copyright: Copyright (c) 2022, cantrellnm
+UComments: "2022-9-8: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -203
+UnderlineWidth: 101
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 627 1895816022 8960]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1662696321
+ModificationTime: 1662877530
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 4 0 0 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 1-0"  "'liga' Standard Ligatures lookup 1-1"  "'liga' Standard Ligatures lookup 1-2"  "'liga' Standard Ligatures lookup 1-3"  "'liga' Standard Ligatures lookup 1-4"  "'liga' Standard Ligatures lookup 1-5"  "'liga' Standard Ligatures lookup 1-6"  "'liga' Standard Ligatures lookup 1-7"  "'liga' Standard Ligatures lookup 1-8"  "'liga' Standard Ligatures lookup 1-9"  "'liga' Standard Ligatures lookup 2-0"  "'liga' Standard Ligatures lookup 2-1"  "'liga' Standard Ligatures lookup 2-2"  "'liga' Standard Ligatures lookup 2-3"  "'liga' Standard Ligatures lookup 2-4"  "'liga' Standard Ligatures lookup 2-5"  "'liga' Standard Ligatures lookup 2-6"  "'liga' Standard Ligatures lookup 2-7"  "'liga' Standard Ligatures lookup 2-8"  "'liga' Standard Ligatures lookup 2-9"  "'liga' Standard Ligatures lookup 3-0"  "'liga' Standard Ligatures lookup 3-1"  "'liga' Standard Ligatures lookup 3-2"  "'liga' Standard Ligatures lookup 3-3"  "'liga' Standard Ligatures lookup 3-4"  "'liga' Standard Ligatures lookup 3-5"  "'liga' Standard Ligatures lookup 3-6"  } ['liga' ('DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WidthSeparation: 200
+WinInfo: 54 27 9
+BeginPrivate: 0
+EndPrivate
+BeginChars: 283 37
+
+StartChar: zero
+Encoding: 48 48 0
+Width: 693
+Flags: HW
+HStem: 187 171<265.5 437.5> 871 171<265.5 437.5>
+VStem: 96.5 171<359 871> 437.5 171<359 871>
+LayerCount: 2
+Fore
+SplineSet
+265 1042 m 2
+ 437 1042 l 2
+ 531 1042 607 965 607 871 c 2
+ 607 359 l 2
+ 607 265 531 187 437 187 c 2
+ 265 187 l 2
+ 171 187 97 265 97 359 c 2
+ 97 871 l 2
+ 97 965 171 1042 265 1042 c 2
+265 871 m 1
+ 265 359 l 1
+ 437 359 l 1
+ 437 871 l 1
+ 265 871 l 1
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 1
+Width: 1919
+Flags: HW
+HStem: 187 44G<1171 1342> 871 171<1000 1171>
+VStem: 1000 341<871 1042> 1171 171<187 871>
+LayerCount: 2
+Fore
+SplineSet
+1483 1042 m 2
+ 1824 1042 l 1
+ 1824 871 l 1
+ 1483 871 l 1
+ 1483 699 l 1
+ 1655 699 l 2
+ 1749 699 1824 624 1824 530 c 2
+ 1824 359 l 2
+ 1824 265 1749 187 1655 187 c 2
+ 1483 187 l 2
+ 1389 187 1314 265 1314 359 c 2
+ 1314 871 l 2
+ 1314 965 1389 1042 1483 1042 c 2
+1483 530 m 1
+ 1483 359 l 1
+ 1655 359 l 1
+ 1655 530 l 1
+ 1483 530 l 1
+1042 440 m 1
+ 1042 359 l 0
+ 1042 265 967 187 873 187 c 2
+ 530 187 l 1
+ 530 359 l 1
+ 873 359 l 1
+ 873 530 l 1
+ 702 530 l 1
+ 702 699 l 1
+ 873 699 l 1
+ 873 871 l 1
+ 530 871 l 1
+ 530 1042 l 1
+ 873 1042 l 2
+ 967 1042 1042 967 1042 871 c 2
+ 1042 743 l 2
+ 1042 671 987 614 915 614 c 1
+ 987 614 1042 558 1042 486 c 2
+ 1042 440 l 1
+80 1041 m 1
+ 421 1041 l 1
+ 421 187 l 1
+ 250 187 l 1
+ 250 870 l 1
+ 80 870 l 1
+ 80 1041 l 1
+1097 347 m 1
+ 1257 347 l 1
+ 1257 187 l 1
+ 1097 187 l 1
+ 1097 347 l 1
+EndSplineSet
+EndChar
+
+StartChar: two
+Encoding: 50 50 2
+Width: 1730
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1290 1041 m 5
+ 1631 1041 l 5
+ 1631 187 l 5
+ 1460 187 l 5
+ 1460 870 l 5
+ 1290 870 l 5
+ 1290 1041 l 5
+1042 440 m 1
+ 1042 359 l 0
+ 1042 265 967 187 873 187 c 2
+ 530 187 l 1
+ 530 359 l 1
+ 873 359 l 1
+ 873 530 l 1
+ 702 530 l 1
+ 702 699 l 1
+ 873 699 l 1
+ 873 871 l 1
+ 530 871 l 1
+ 530 1042 l 1
+ 873 1042 l 2
+ 967 1042 1042 967 1042 871 c 2
+ 1042 743 l 2
+ 1042 671 987 614 915 614 c 1
+ 987 614 1042 558 1042 486 c 2
+ 1042 440 l 1
+80 1041 m 1
+ 421 1041 l 1
+ 421 187 l 1
+ 250 187 l 1
+ 250 870 l 1
+ 80 870 l 1
+ 80 1041 l 1
+1097 347 m 5
+ 1257 347 l 5
+ 1257 187 l 5
+ 1097 187 l 5
+ 1097 347 l 5
+EndSplineSet
+EndChar
+
+StartChar: three
+Encoding: 51 51 3
+Width: 2013
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1146 358 m 5
+ 1306 358 l 5
+ 1306 187 l 5
+ 1146 187 l 5
+ 1146 358 l 5
+1414 1041 m 5
+ 1754 1041 l 6
+ 1848 1041 1926 964 1926 870 c 6
+ 1926 699 l 6
+ 1926 605 1848 529 1754 529 c 6
+ 1584 529 l 5
+ 1584 358 l 5
+ 1926 358 l 5
+ 1926 187 l 5
+ 1584 187 l 5
+ 1414 187 l 5
+ 1414 529 l 6
+ 1414 623 1490 699 1584 699 c 6
+ 1754 699 l 5
+ 1754 870 l 5
+ 1414 870 l 5
+ 1414 1041 l 5
+528 1041 m 5
+ 868 1041 l 6
+ 962 1041 1040 964 1040 870 c 6
+ 1040 699 l 6
+ 1040 605 962 529 868 529 c 6
+ 698 529 l 5
+ 698 358 l 5
+ 1040 358 l 5
+ 1040 187 l 5
+ 698 187 l 5
+ 528 187 l 5
+ 528 529 l 6
+ 528 623 604 699 698 699 c 6
+ 868 699 l 5
+ 868 870 l 5
+ 528 870 l 5
+ 528 1041 l 5
+80 1041 m 5
+ 422 1041 l 5
+ 422 187 l 5
+ 250 187 l 5
+ 250 870 l 5
+ 80 870 l 5
+ 80 1041 l 5
+EndSplineSet
+EndChar
+
+StartChar: four
+Encoding: 52 52 4
+Width: 2016
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1758 187 m 6
+ 1418 187 l 5
+ 1418 358 l 5
+ 1758 358 l 5
+ 1758 529 l 5
+ 1588 529 l 6
+ 1494 529 1418 605 1418 699 c 6
+ 1418 870 l 6
+ 1418 964 1494 1041 1588 1041 c 6
+ 1758 1041 l 6
+ 1852 1041 1930 964 1930 870 c 6
+ 1930 358 l 6
+ 1930 264 1852 187 1758 187 c 6
+1758 699 m 5
+ 1758 870 l 5
+ 1588 870 l 5
+ 1588 699 l 5
+ 1758 699 l 5
+1130 355 m 5
+ 1290 355 l 5
+ 1290 187 l 5
+ 1130 187 l 5
+ 1130 355 l 5
+705 1041 m 2
+ 876 1041 l 2
+ 970 1041 1047 964 1047 870 c 2
+ 1047 358 l 2
+ 1047 264 970 187 876 187 c 2
+ 705 187 l 2
+ 611 187 535 264 535 358 c 2
+ 535 870 l 2
+ 535 964 611 1041 705 1041 c 2
+705 870 m 1
+ 705 358 l 1
+ 876 358 l 1
+ 876 870 l 1
+ 705 870 l 1
+80 1041 m 1
+ 421 1041 l 1
+ 421 187 l 1
+ 251 187 l 1
+ 251 870 l 1
+ 80 870 l 1
+ 80 1041 l 1
+EndSplineSet
+EndChar
+
+StartChar: five
+Encoding: 53 53 5
+Width: 1132
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+706 1041 m 6
+ 876 1041 l 6
+ 970 1041 1046 964 1046 870 c 6
+ 1046 358 l 6
+ 1046 264 970 187 876 187 c 6
+ 706 187 l 6
+ 612 187 534 264 534 358 c 6
+ 534 870 l 6
+ 534 964 612 1041 706 1041 c 6
+706 870 m 5
+ 706 358 l 5
+ 876 358 l 5
+ 876 870 l 5
+ 706 870 l 5
+80 1041 m 5
+ 422 1041 l 5
+ 422 187 l 5
+ 250 187 l 5
+ 250 870 l 5
+ 80 870 l 5
+ 80 1041 l 5
+EndSplineSet
+EndChar
+
+StartChar: six
+Encoding: 54 54 6
+Width: 1571
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+695 359 m 1
+ 855 359 l 1
+ 855 187 l 1
+ 695 187 l 1
+ 695 359 l 1
+964 1042 m 1
+ 1476 1042 l 1
+ 1476 871 l 1
+ 1134 871 l 1
+ 1134 699 l 1
+ 1305 699 l 2
+ 1399 699 1476 624 1476 530 c 2
+ 1476 359 l 2
+ 1476 265 1399 187 1305 187 c 2
+ 964 187 l 1
+ 964 359 l 1
+ 1305 359 l 1
+ 1305 530 l 1
+ 964 530 l 1
+ 964 1042 l 1
+433 187 m 6
+ 92 187 l 5
+ 92 358 l 5
+ 433 358 l 5
+ 433 529 l 5
+ 263 529 l 6
+ 169 529 92 605 92 699 c 6
+ 92 870 l 6
+ 92 964 169 1041 263 1041 c 6
+ 433 1041 l 6
+ 527 1041 604 964 604 870 c 6
+ 604 358 l 6
+ 604 264 527 187 433 187 c 6
+433 699 m 5
+ 433 870 l 5
+ 263 870 l 5
+ 263 699 l 5
+ 433 699 l 5
+EndSplineSet
+EndChar
+
+StartChar: seven
+Encoding: 55 55 7
+Width: 690
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+433 187 m 6
+ 92 187 l 5
+ 92 358 l 5
+ 433 358 l 5
+ 433 529 l 5
+ 263 529 l 6
+ 169 529 92 605 92 699 c 6
+ 92 870 l 6
+ 92 964 169 1041 263 1041 c 6
+ 433 1041 l 6
+ 527 1041 604 964 604 870 c 6
+ 604 358 l 6
+ 604 264 527 187 433 187 c 6
+433 699 m 5
+ 433 870 l 5
+ 263 870 l 5
+ 263 699 l 5
+ 433 699 l 5
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 56 56 8
+Width: 1582
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+266 530 m 5
+ 266 359 l 5
+ 437 359 l 5
+ 437 530 l 5
+ 266 530 l 5
+266 871 m 5
+ 266 699 l 5
+ 437 699 l 5
+ 437 871 l 5
+ 266 871 l 5
+390 187 m 5
+ 266 187 l 4
+ 172 187 95 263 95 359 c 6
+ 95 486 l 6
+ 95 558 152 614 224 614 c 5
+ 152 614 95 671 95 743 c 6
+ 95 871 l 6
+ 95 965 172 1042 266 1042 c 6
+ 437 1042 l 6
+ 531 1042 607 967 607 871 c 6
+ 607 743 l 6
+ 607 671 551 614 479 614 c 5
+ 551 614 607 558 607 486 c 6
+ 607 359 l 6
+ 607 265 531 187 437 187 c 6
+ 390 187 l 5
+706 359 m 1
+ 866 359 l 1
+ 866 187 l 1
+ 706 187 l 1
+ 706 359 l 1
+975 1042 m 1
+ 1487 1042 l 1
+ 1487 871 l 1
+ 1145 871 l 1
+ 1145 699 l 1
+ 1316 699 l 2
+ 1410 699 1487 624 1487 530 c 2
+ 1487 359 l 2
+ 1487 265 1410 187 1316 187 c 2
+ 975 187 l 1
+ 975 359 l 1
+ 1316 359 l 1
+ 1316 530 l 1
+ 975 530 l 1
+ 975 1042 l 1
+EndSplineSet
+EndChar
+
+StartChar: nine
+Encoding: 57 57 9
+Width: 692
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+266 530 m 5
+ 266 359 l 5
+ 437 359 l 5
+ 437 530 l 5
+ 266 530 l 5
+266 871 m 5
+ 266 699 l 5
+ 437 699 l 5
+ 437 871 l 5
+ 266 871 l 5
+390 187 m 5
+ 266 187 l 4
+ 172 187 95 263 95 359 c 6
+ 95 486 l 6
+ 95 558 152 614 224 614 c 5
+ 152 614 95 671 95 743 c 6
+ 95 871 l 6
+ 95 965 172 1042 266 1042 c 6
+ 437 1042 l 6
+ 531 1042 607 967 607 871 c 6
+ 607 743 l 6
+ 607 671 551 614 479 614 c 5
+ 551 614 607 558 607 486 c 6
+ 607 359 l 6
+ 607 265 531 187 437 187 c 6
+ 390 187 l 5
+EndSplineSet
+EndChar
+
+StartChar: _1_0
+Encoding: 256 -1 10
+Width: 1515
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1079 1042 m 6
+ 1420 1042 l 5
+ 1420 871 l 5
+ 1079 871 l 5
+ 1079 699 l 5
+ 1250 699 l 6
+ 1344 699 1420 624 1420 530 c 6
+ 1420 359 l 6
+ 1420 265 1344 187 1250 187 c 6
+ 1079 187 l 6
+ 985 187 908 265 908 359 c 6
+ 908 871 l 6
+ 908 965 985 1042 1079 1042 c 6
+1079 530 m 5
+ 1079 359 l 5
+ 1250 359 l 5
+ 1250 530 l 5
+ 1079 530 l 5
+631 347 m 5
+ 791 347 l 5
+ 791 187 l 5
+ 631 187 l 5
+ 631 347 l 5
+255 187 m 1
+ 83 187 l 1
+ 425 871 l 1
+ 83 871 l 1
+ 83 1042 l 1
+ 595 1042 l 1
+ 595 871 l 1
+ 255 187 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-0" one zero
+EndChar
+
+StartChar: _1_1
+Encoding: 257 -1 11
+Width: 1490
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+644 359 m 5
+ 806 359 l 5
+ 806 187 l 5
+ 644 187 l 5
+ 644 359 l 5
+1405 440 m 5
+ 1405 359 l 4
+ 1405 265 1330 187 1236 187 c 6
+ 893 187 l 5
+ 893 359 l 5
+ 1236 359 l 5
+ 1236 530 l 5
+ 1065 530 l 5
+ 1065 699 l 5
+ 1236 699 l 5
+ 1236 871 l 5
+ 893 871 l 5
+ 893 1042 l 5
+ 1236 1042 l 6
+ 1330 1042 1405 967 1405 871 c 6
+ 1405 743 l 6
+ 1405 671 1350 614 1278 614 c 5
+ 1350 614 1405 558 1405 486 c 6
+ 1405 440 l 5
+255 187 m 1
+ 83 187 l 1
+ 425 871 l 1
+ 83 871 l 1
+ 83 1042 l 1
+ 595 1042 l 1
+ 595 871 l 1
+ 255 187 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one one
+EndChar
+
+StartChar: _1_2
+Encoding: 258 -1 12
+Width: 682
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+253 187 m 1
+ 83 187 l 1
+ 425 871 l 1
+ 83 871 l 1
+ 83 1042 l 1
+ 593 1042 l 1
+ 593 871 l 1
+ 253 187 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-2" one two
+EndChar
+
+StartChar: _1_3
+Encoding: 259 -1 13
+Width: 1590
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1160 187 m 5
+ 989 187 l 5
+ 1330 871 l 5
+ 989 871 l 5
+ 989 1042 l 5
+ 1501 1042 l 5
+ 1501 871 l 5
+ 1160 187 l 5
+700 347 m 5
+ 860 347 l 5
+ 860 187 l 5
+ 700 187 l 5
+ 700 347 l 5
+268 1042 m 2
+ 609 1042 l 1
+ 609 871 l 1
+ 268 871 l 1
+ 268 699 l 1
+ 439 699 l 2
+ 533 699 609 624 609 530 c 2
+ 609 359 l 2
+ 609 265 533 187 439 187 c 2
+ 268 187 l 2
+ 174 187 97 265 97 359 c 2
+ 97 871 l 2
+ 97 965 174 1042 268 1042 c 2
+268 530 m 1
+ 268 359 l 1
+ 439 359 l 1
+ 439 530 l 1
+ 268 530 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-3" one three
+EndChar
+
+StartChar: _1_4
+Encoding: 260 -1 14
+Width: 1579
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+268 1042 m 2
+ 609 1042 l 1
+ 609 871 l 1
+ 268 871 l 1
+ 268 699 l 1
+ 439 699 l 2
+ 533 699 609 624 609 530 c 2
+ 609 359 l 2
+ 609 265 533 187 439 187 c 2
+ 268 187 l 2
+ 174 187 97 265 97 359 c 2
+ 97 871 l 2
+ 97 965 174 1042 268 1042 c 2
+268 530 m 1
+ 268 359 l 1
+ 439 359 l 1
+ 439 530 l 1
+ 268 530 l 1
+712 359 m 5
+ 874 359 l 5
+ 874 187 l 5
+ 712 187 l 5
+ 712 359 l 5
+972 1042 m 1
+ 1484 1042 l 1
+ 1484 871 l 1
+ 1142 871 l 1
+ 1142 699 l 1
+ 1314 699 l 2
+ 1408 699 1484 624 1484 530 c 2
+ 1484 359 l 2
+ 1484 265 1408 187 1314 187 c 2
+ 972 187 l 1
+ 972 359 l 1
+ 1314 359 l 1
+ 1314 530 l 1
+ 972 530 l 1
+ 972 1042 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-4" one four
+EndChar
+
+StartChar: _1_5
+Encoding: 261 -1 15
+Width: 1574
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+974 1041 m 5
+ 1316 1041 l 6
+ 1410 1041 1486 964 1486 870 c 6
+ 1486 699 l 6
+ 1486 605 1410 529 1316 529 c 6
+ 1146 529 l 5
+ 1146 358 l 5
+ 1486 358 l 5
+ 1486 187 l 5
+ 1146 187 l 5
+ 974 187 l 5
+ 974 529 l 6
+ 974 623 1052 699 1146 699 c 6
+ 1316 699 l 5
+ 1316 870 l 5
+ 974 870 l 5
+ 974 1041 l 5
+700 347 m 5
+ 860 347 l 5
+ 860 187 l 5
+ 700 187 l 5
+ 700 347 l 5
+268 1042 m 2
+ 609 1042 l 1
+ 609 871 l 1
+ 268 871 l 1
+ 268 699 l 1
+ 439 699 l 2
+ 533 699 609 624 609 530 c 2
+ 609 359 l 2
+ 609 265 533 187 439 187 c 2
+ 268 187 l 2
+ 174 187 97 265 97 359 c 2
+ 97 871 l 2
+ 97 965 174 1042 268 1042 c 2
+268 530 m 1
+ 268 359 l 1
+ 439 359 l 1
+ 439 530 l 1
+ 268 530 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-5" one five
+EndChar
+
+StartChar: _1_6
+Encoding: 262 -1 16
+Width: 704
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+268 1042 m 6
+ 609 1042 l 5
+ 609 871 l 5
+ 268 871 l 5
+ 268 699 l 5
+ 439 699 l 6
+ 533 699 609 624 609 530 c 6
+ 609 359 l 6
+ 609 265 533 187 439 187 c 6
+ 268 187 l 6
+ 174 187 97 265 97 359 c 6
+ 97 871 l 6
+ 97 965 174 1042 268 1042 c 6
+268 530 m 5
+ 268 359 l 5
+ 439 359 l 5
+ 439 530 l 5
+ 268 530 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-6" one six
+EndChar
+
+StartChar: _1_7
+Encoding: 263 -1 17
+Width: 1564
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1128 1042 m 6
+ 1469 1042 l 5
+ 1469 871 l 5
+ 1128 871 l 5
+ 1128 699 l 5
+ 1299 699 l 6
+ 1393 699 1469 624 1469 530 c 6
+ 1469 359 l 6
+ 1469 265 1393 187 1299 187 c 6
+ 1128 187 l 6
+ 1034 187 957 265 957 359 c 6
+ 957 871 l 6
+ 957 965 1034 1042 1128 1042 c 6
+1128 530 m 5
+ 1128 359 l 5
+ 1299 359 l 5
+ 1299 530 l 5
+ 1128 530 l 5
+700 347 m 1
+ 860 347 l 1
+ 860 187 l 1
+ 700 187 l 1
+ 700 347 l 1
+99 1042 m 1
+ 611 1042 l 1
+ 611 871 l 1
+ 269 871 l 1
+ 269 699 l 1
+ 440 699 l 2
+ 534 699 611 624 611 530 c 2
+ 611 359 l 2
+ 611 265 534 187 440 187 c 2
+ 99 187 l 1
+ 99 359 l 1
+ 440 359 l 1
+ 440 530 l 1
+ 99 530 l 1
+ 99 1042 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-7" one seven
+EndChar
+
+StartChar: _1_8
+Encoding: 264 -1 18
+Width: 1539
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+693 359 m 1
+ 855 359 l 1
+ 855 187 l 1
+ 693 187 l 1
+ 693 359 l 1
+1454 440 m 1
+ 1454 359 l 0
+ 1454 265 1379 187 1285 187 c 2
+ 942 187 l 1
+ 942 359 l 1
+ 1285 359 l 1
+ 1285 530 l 1
+ 1114 530 l 1
+ 1114 699 l 1
+ 1285 699 l 1
+ 1285 871 l 1
+ 942 871 l 1
+ 942 1042 l 1
+ 1285 1042 l 2
+ 1379 1042 1454 967 1454 871 c 2
+ 1454 743 l 2
+ 1454 671 1399 614 1327 614 c 1
+ 1399 614 1454 558 1454 486 c 2
+ 1454 440 l 1
+99 1042 m 5
+ 611 1042 l 5
+ 611 871 l 5
+ 269 871 l 5
+ 269 699 l 5
+ 440 699 l 6
+ 534 699 611 624 611 530 c 6
+ 611 359 l 6
+ 611 265 534 187 440 187 c 6
+ 99 187 l 5
+ 99 359 l 5
+ 440 359 l 5
+ 440 530 l 5
+ 99 530 l 5
+ 99 1042 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-8" one eight
+EndChar
+
+StartChar: _1_9
+Encoding: 265 -1 19
+Width: 706
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+99 1042 m 5
+ 611 1042 l 5
+ 611 871 l 5
+ 269 871 l 5
+ 269 699 l 5
+ 440 699 l 6
+ 534 699 611 624 611 530 c 6
+ 611 359 l 6
+ 611 265 534 187 440 187 c 6
+ 99 187 l 5
+ 99 359 l 5
+ 440 359 l 5
+ 440 530 l 5
+ 99 530 l 5
+ 99 1042 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 1-9" one nine
+EndChar
+
+StartChar: _2_0
+Encoding: 266 -1 20
+Width: 1533
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1105 530 m 5
+ 1105 359 l 5
+ 1276 359 l 5
+ 1276 530 l 5
+ 1105 530 l 5
+1105 871 m 5
+ 1105 699 l 5
+ 1276 699 l 5
+ 1276 871 l 5
+ 1105 871 l 5
+1230 187 m 5
+ 1105 187 l 4
+ 1011 187 936 263 936 359 c 6
+ 936 486 l 6
+ 936 558 991 614 1063 614 c 5
+ 991 614 936 671 936 743 c 6
+ 936 871 l 6
+ 936 965 1011 1042 1105 1042 c 6
+ 1276 1042 l 6
+ 1370 1042 1448 967 1448 871 c 6
+ 1448 743 l 6
+ 1448 671 1390 614 1318 614 c 5
+ 1390 614 1448 558 1448 486 c 6
+ 1448 359 l 6
+ 1448 265 1368 187 1276 187 c 6
+ 1230 187 l 5
+97 1042 m 1
+ 266 1042 l 1
+ 266 699 l 1
+ 437 699 l 1
+ 437 1042 l 1
+ 609 1042 l 1
+ 609 187 l 1
+ 437 187 l 1
+ 437 530 l 1
+ 97 530 l 1
+ 97 1042 l 1
+692 347 m 5
+ 852 347 l 5
+ 852 187 l 5
+ 692 187 l 5
+ 692 347 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-0" two zero
+EndChar
+
+StartChar: _2_1
+Encoding: 267 -1 21
+Width: 1530
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1094 1042 m 2
+ 1435 1042 l 1
+ 1435 871 l 1
+ 1094 871 l 1
+ 1094 699 l 1
+ 1265 699 l 2
+ 1359 699 1435 624 1435 530 c 2
+ 1435 359 l 2
+ 1435 265 1359 187 1265 187 c 2
+ 1094 187 l 2
+ 1000 187 923 265 923 359 c 2
+ 923 871 l 2
+ 923 965 1000 1042 1094 1042 c 2
+1094 530 m 1
+ 1094 359 l 1
+ 1265 359 l 1
+ 1265 530 l 1
+ 1094 530 l 1
+97 1042 m 5
+ 266 1042 l 5
+ 266 699 l 5
+ 437 699 l 5
+ 437 1042 l 5
+ 609 1042 l 5
+ 609 187 l 5
+ 437 187 l 5
+ 437 530 l 5
+ 97 530 l 5
+ 97 1042 l 5
+692 347 m 5
+ 852 347 l 5
+ 852 187 l 5
+ 692 187 l 5
+ 692 347 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-1" two one
+EndChar
+
+StartChar: _2_2
+Encoding: 268 -1 22
+Width: 1498
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+887 1042 m 5
+ 1056 1042 l 5
+ 1056 699 l 5
+ 1227 699 l 5
+ 1227 1042 l 5
+ 1399 1042 l 5
+ 1399 187 l 5
+ 1227 187 l 5
+ 1227 530 l 5
+ 887 530 l 5
+ 887 1042 l 5
+97 1042 m 1
+ 266 1042 l 1
+ 266 699 l 1
+ 437 699 l 1
+ 437 1042 l 1
+ 609 1042 l 1
+ 609 187 l 1
+ 437 187 l 1
+ 437 530 l 1
+ 97 530 l 1
+ 97 1042 l 1
+692 347 m 5
+ 852 347 l 5
+ 852 187 l 5
+ 692 187 l 5
+ 692 347 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-2" two two
+EndChar
+
+StartChar: _2_3
+Encoding: 269 -1 23
+Width: 1338
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+898 1041 m 1
+ 1239 1041 l 1
+ 1239 187 l 1
+ 1068 187 l 1
+ 1068 870 l 1
+ 898 870 l 1
+ 898 1041 l 1
+705 347 m 1
+ 865 347 l 1
+ 865 187 l 1
+ 705 187 l 1
+ 705 347 l 1
+97 1042 m 5
+ 266 1042 l 5
+ 266 699 l 5
+ 437 699 l 5
+ 437 1042 l 5
+ 609 1042 l 5
+ 609 187 l 5
+ 437 187 l 5
+ 437 530 l 5
+ 97 530 l 5
+ 97 1042 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-3" two three
+EndChar
+
+StartChar: _2_4
+Encoding: 270 -1 24
+Width: 708
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+97 1042 m 5
+ 266 1042 l 5
+ 266 699 l 5
+ 437 699 l 5
+ 437 1042 l 5
+ 609 1042 l 5
+ 609 187 l 5
+ 437 187 l 5
+ 437 530 l 5
+ 97 530 l 5
+ 97 1042 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-4" two four
+EndChar
+
+StartChar: _2_5
+Encoding: 271 -1 25
+Width: 1581
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1151 187 m 1
+ 980 187 l 1
+ 1321 871 l 1
+ 980 871 l 1
+ 980 1042 l 1
+ 1492 1042 l 1
+ 1492 871 l 1
+ 1151 187 l 1
+691 347 m 1
+ 851 347 l 1
+ 851 187 l 1
+ 691 187 l 1
+ 691 347 l 1
+605 440 m 5
+ 605 359 l 4
+ 605 265 530 187 436 187 c 6
+ 93 187 l 5
+ 93 359 l 5
+ 436 359 l 5
+ 436 530 l 5
+ 265 530 l 5
+ 265 699 l 5
+ 436 699 l 5
+ 436 871 l 5
+ 93 871 l 5
+ 93 1042 l 5
+ 436 1042 l 6
+ 530 1042 605 967 605 871 c 6
+ 605 743 l 6
+ 605 671 550 614 478 614 c 5
+ 550 614 605 558 605 486 c 6
+ 605 440 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-5" two five
+EndChar
+
+StartChar: _2_6
+Encoding: 272 -1 26
+Width: 1577
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+605 440 m 5
+ 605 359 l 4
+ 605 265 530 187 436 187 c 6
+ 93 187 l 5
+ 93 359 l 5
+ 436 359 l 5
+ 436 530 l 5
+ 265 530 l 5
+ 265 699 l 5
+ 436 699 l 5
+ 436 871 l 5
+ 93 871 l 5
+ 93 1042 l 5
+ 436 1042 l 6
+ 530 1042 605 967 605 871 c 6
+ 605 743 l 6
+ 605 671 550 614 478 614 c 5
+ 550 614 605 558 605 486 c 6
+ 605 440 l 5
+711 359 m 1
+ 871 359 l 1
+ 871 187 l 1
+ 711 187 l 1
+ 711 359 l 1
+970 1042 m 1
+ 1482 1042 l 1
+ 1482 871 l 1
+ 1140 871 l 1
+ 1140 699 l 1
+ 1311 699 l 2
+ 1405 699 1482 624 1482 530 c 2
+ 1482 359 l 2
+ 1482 265 1405 187 1311 187 c 2
+ 970 187 l 1
+ 970 359 l 1
+ 1311 359 l 1
+ 1311 530 l 1
+ 970 530 l 1
+ 970 1042 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-6" two six
+EndChar
+
+StartChar: _2_7
+Encoding: 273 -1 27
+Width: 1575
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+975 1041 m 1
+ 1317 1041 l 2
+ 1411 1041 1487 964 1487 870 c 2
+ 1487 699 l 2
+ 1487 605 1411 529 1317 529 c 2
+ 1147 529 l 1
+ 1147 358 l 1
+ 1487 358 l 1
+ 1487 187 l 1
+ 1147 187 l 1
+ 975 187 l 1
+ 975 529 l 2
+ 975 623 1053 699 1147 699 c 2
+ 1317 699 l 1
+ 1317 870 l 1
+ 975 870 l 1
+ 975 1041 l 1
+701 347 m 1
+ 861 347 l 1
+ 861 187 l 1
+ 701 187 l 1
+ 701 347 l 1
+605 440 m 5
+ 605 359 l 4
+ 605 265 530 187 436 187 c 6
+ 93 187 l 5
+ 93 359 l 5
+ 436 359 l 5
+ 436 530 l 5
+ 265 530 l 5
+ 265 699 l 5
+ 436 699 l 5
+ 436 871 l 5
+ 93 871 l 5
+ 93 1042 l 5
+ 436 1042 l 6
+ 530 1042 605 967 605 871 c 6
+ 605 743 l 6
+ 605 671 550 614 478 614 c 5
+ 550 614 605 558 605 486 c 6
+ 605 440 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-7" two seven
+EndChar
+
+StartChar: _2_8
+Encoding: 274 -1 28
+Width: 690
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+605 440 m 5
+ 605 359 l 4
+ 605 265 530 187 436 187 c 6
+ 93 187 l 5
+ 93 359 l 5
+ 436 359 l 5
+ 436 530 l 5
+ 265 530 l 5
+ 265 699 l 5
+ 436 699 l 5
+ 436 871 l 5
+ 93 871 l 5
+ 93 1042 l 5
+ 436 1042 l 6
+ 530 1042 605 967 605 871 c 6
+ 605 743 l 6
+ 605 671 550 614 478 614 c 5
+ 550 614 605 558 605 486 c 6
+ 605 440 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-8" two eight
+EndChar
+
+StartChar: _2_9
+Encoding: 275 -1 29
+Width: 1598
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1162 1042 m 2
+ 1503 1042 l 1
+ 1503 871 l 1
+ 1162 871 l 1
+ 1162 699 l 1
+ 1333 699 l 2
+ 1427 699 1503 624 1503 530 c 2
+ 1503 359 l 2
+ 1503 265 1427 187 1333 187 c 2
+ 1162 187 l 2
+ 1068 187 991 265 991 359 c 2
+ 991 871 l 2
+ 991 965 1068 1042 1162 1042 c 2
+1162 530 m 1
+ 1162 359 l 1
+ 1333 359 l 1
+ 1333 530 l 1
+ 1162 530 l 1
+714 358 m 5
+ 874 358 l 5
+ 874 187 l 5
+ 714 187 l 5
+ 714 358 l 5
+98 1041 m 5
+ 440 1041 l 6
+ 534 1041 610 964 610 870 c 6
+ 610 699 l 6
+ 610 605 534 529 440 529 c 6
+ 270 529 l 5
+ 270 358 l 5
+ 610 358 l 5
+ 610 187 l 5
+ 270 187 l 5
+ 98 187 l 5
+ 98 529 l 6
+ 98 623 176 699 270 699 c 6
+ 440 699 l 5
+ 440 870 l 5
+ 98 870 l 5
+ 98 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 2-9" two nine
+EndChar
+
+StartChar: _3_0
+Encoding: 276 -1 30
+Width: 1533
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+687 359 m 1
+ 849 359 l 1
+ 849 187 l 1
+ 687 187 l 1
+ 687 359 l 1
+1448 440 m 1
+ 1448 359 l 0
+ 1448 265 1373 187 1279 187 c 2
+ 936 187 l 1
+ 936 359 l 1
+ 1279 359 l 1
+ 1279 530 l 1
+ 1108 530 l 1
+ 1108 699 l 1
+ 1279 699 l 1
+ 1279 871 l 1
+ 936 871 l 1
+ 936 1042 l 1
+ 1279 1042 l 2
+ 1373 1042 1448 967 1448 871 c 2
+ 1448 743 l 2
+ 1448 671 1393 614 1321 614 c 1
+ 1393 614 1448 558 1448 486 c 2
+ 1448 440 l 1
+98 1041 m 5
+ 440 1041 l 6
+ 534 1041 610 964 610 870 c 6
+ 610 699 l 6
+ 610 605 534 529 440 529 c 6
+ 270 529 l 5
+ 270 358 l 5
+ 610 358 l 5
+ 610 187 l 5
+ 270 187 l 5
+ 98 187 l 5
+ 98 529 l 6
+ 98 623 176 699 270 699 c 6
+ 440 699 l 5
+ 440 870 l 5
+ 98 870 l 5
+ 98 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-0" three zero
+EndChar
+
+StartChar: _3_1
+Encoding: 277 -1 31
+Width: 698
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+98 1041 m 5
+ 440 1041 l 6
+ 534 1041 610 964 610 870 c 6
+ 610 699 l 6
+ 610 605 534 529 440 529 c 6
+ 270 529 l 5
+ 270 358 l 5
+ 610 358 l 5
+ 610 187 l 5
+ 270 187 l 5
+ 98 187 l 5
+ 98 529 l 6
+ 98 623 176 699 270 699 c 6
+ 440 699 l 5
+ 440 870 l 5
+ 98 870 l 5
+ 98 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-1" three one
+EndChar
+
+StartChar: _3_2
+Encoding: 278 -1 32
+Width: 1359
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+931 530 m 1
+ 931 359 l 1
+ 1102 359 l 1
+ 1102 530 l 1
+ 931 530 l 1
+931 871 m 1
+ 931 699 l 1
+ 1102 699 l 1
+ 1102 871 l 1
+ 931 871 l 1
+1056 187 m 1
+ 931 187 l 0
+ 837 187 762 263 762 359 c 2
+ 762 486 l 2
+ 762 558 817 614 889 614 c 1
+ 817 614 762 671 762 743 c 2
+ 762 871 l 2
+ 762 965 837 1042 931 1042 c 2
+ 1102 1042 l 2
+ 1196 1042 1274 967 1274 871 c 2
+ 1274 743 l 2
+ 1274 671 1216 614 1144 614 c 1
+ 1216 614 1274 558 1274 486 c 2
+ 1274 359 l 2
+ 1274 265 1194 187 1102 187 c 2
+ 1056 187 l 1
+518 347 m 1
+ 678 347 l 1
+ 678 187 l 1
+ 518 187 l 1
+ 518 347 l 1
+80 1041 m 5
+ 422 1041 l 5
+ 422 187 l 5
+ 250 187 l 5
+ 250 870 l 5
+ 80 870 l 5
+ 80 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-2" three two
+EndChar
+
+StartChar: _3_3
+Encoding: 279 -1 33
+Width: 1416
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+980 1042 m 2
+ 1321 1042 l 1
+ 1321 871 l 1
+ 980 871 l 1
+ 980 699 l 1
+ 1151 699 l 2
+ 1245 699 1321 624 1321 530 c 2
+ 1321 359 l 2
+ 1321 265 1245 187 1151 187 c 2
+ 980 187 l 2
+ 886 187 809 265 809 359 c 2
+ 809 871 l 2
+ 809 965 886 1042 980 1042 c 2
+980 530 m 1
+ 980 359 l 1
+ 1151 359 l 1
+ 1151 530 l 1
+ 980 530 l 1
+532 347 m 1
+ 692 347 l 1
+ 692 187 l 1
+ 532 187 l 1
+ 532 347 l 1
+80 1041 m 5
+ 422 1041 l 5
+ 422 187 l 5
+ 250 187 l 5
+ 250 870 l 5
+ 80 870 l 5
+ 80 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-3" three three
+EndChar
+
+StartChar: _3_4
+Encoding: 280 -1 34
+Width: 1324
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+713 1042 m 1
+ 882 1042 l 1
+ 882 699 l 1
+ 1053 699 l 1
+ 1053 1042 l 1
+ 1225 1042 l 1
+ 1225 187 l 1
+ 1053 187 l 1
+ 1053 530 l 1
+ 713 530 l 1
+ 713 1042 l 1
+518 347 m 1
+ 678 347 l 1
+ 678 187 l 1
+ 518 187 l 1
+ 518 347 l 1
+80 1041 m 5
+ 422 1041 l 5
+ 422 187 l 5
+ 250 187 l 5
+ 250 870 l 5
+ 80 870 l 5
+ 80 1041 l 5
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-4" three four
+EndChar
+
+StartChar: _3_5
+Encoding: 281 -1 35
+Width: 1396
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+796 1041 m 5
+ 1138 1041 l 6
+ 1232 1041 1308 964 1308 870 c 6
+ 1308 699 l 6
+ 1308 605 1232 529 1138 529 c 6
+ 968 529 l 5
+ 968 358 l 5
+ 1308 358 l 5
+ 1308 187 l 5
+ 968 187 l 5
+ 796 187 l 5
+ 796 529 l 6
+ 796 623 874 699 968 699 c 6
+ 1138 699 l 5
+ 1138 870 l 5
+ 796 870 l 5
+ 796 1041 l 5
+522 347 m 5
+ 682 347 l 5
+ 682 187 l 5
+ 522 187 l 5
+ 522 347 l 5
+80 1041 m 1
+ 422 1041 l 1
+ 422 187 l 1
+ 250 187 l 1
+ 250 870 l 1
+ 80 870 l 1
+ 80 1041 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-5" three five
+EndChar
+
+StartChar: _3_6
+Encoding: 282 -1 36
+Width: 520
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+80 1041 m 1
+ 421 1041 l 1
+ 421 187 l 1
+ 250 187 l 1
+ 250 870 l 1
+ 80 870 l 1
+ 80 1041 l 1
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures lookup 3-6" three six
+EndChar
+EndChars
+EndSplineFont

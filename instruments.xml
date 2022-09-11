@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore>
+      <InstrumentGroup id="plucked-strings">
+            <name>Strings - Plucked</name>
+            <Instrument id="guqin">
+                  <longName>Guqin</longName>
+                  <shortName>Qin</shortName>
+                  <description>Guqin</description>
+                  <musicXMLid>pluck.guitar.nylon-string</musicXMLid>
+                  <StringData>
+                        <frets>36</frets>
+                        <string>50</string>
+                        <string>48</string>
+                        <string>45</string>
+                        <string>43</string>
+                        <string>41</string>
+                        <string>38</string>
+                        <string>36</string>
+                  </StringData>
+                  <clef>F</clef>
+                  <barlineSpan>1</barlineSpan>
+                  <aPitchRange>36-74</aPitchRange>
+                  <pPitchRange>36-86</pPitchRange>
+                  <singleNoteDynamics>0</singleNoteDynamics>
+                  <Channel>
+                        <program value="24"/> <!--Acoustic Guitar (nylon)-->
+                  </Channel>
+                  <genre>earlymusic</genre>
+                  <genre>world</genre>
+            </Instrument>
+            <Instrument id="guqin-tablature">
+                  <trackName>Guqin (Tablature)</trackName>
+                  <init>guqin</init>
+                  <description>Guqin (Tablature)</description>
+                  <musicXMLid>pluck.guitar.nylon-string</musicXMLid>
+                  <stafftype staffTypePreset="tab7StrCommon">tablature</stafftype>
+                  <!-- <clef>TAB</clef> -->
+                  <genre>earlymusic</genre>
+                  <genre>world</genre>
+            </Instrument>
+      </InstrumentGroup>
+</museScore>
